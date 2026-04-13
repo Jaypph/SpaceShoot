@@ -20,7 +20,7 @@ SpaceShoot is a fast-paced tower defense game built with modern web technologies
 
 ## 🎮 Play It Now
 No installation required! The game runs directly in your browser:
-👉 **[Click here!](https://jaypph.github.io/SpaceShoot)**
+👉 **[Click here!](https://jaypph.github.io/SpaceShoot/)**
 
 ---
 
@@ -46,4 +46,4 @@ Have an idea for a new turret or a cool map?
 5. Open a **Pull Request**.
 
 ---
-*Developed by **Jaypph** – Original logic by [msakuta](https://github.com).*
+*Developed by **Jaypph** – Original logic by [msakuta](https://github.com/msakuta).*
