@@ -1,16 +1,27 @@
-Turrets
-=======
-
-A Tower Defense game program with HTML 5 canvas.
-
-It should work on all modern browsers such as Firefox, Chrome,
-Internet Explorer 8 or later and Safari.
-
-Try it now!
-http://msakuta.github.io/turrets/createjs_game.html
+# SpaceShoot
+By Jaypph*
 
 
-Libraries
----------
+## SpaceShoot is a fun tower defense game
 
-This project uses CreateJS/EaselJS graphics library.
+
+
+
+
+
+
+
+
+TRY IT NOW jaypph.github.io/SpaceShoot
+
+
+
+
+
+
+
+
+
+
+
+Original by msakuta
