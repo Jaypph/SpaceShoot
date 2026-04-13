@@ -3,7 +3,19 @@
 
 
 SpaceShoot is a fast-paced tower defense game built with modern web technologies. Defend your base against waves of enemy spacecraft by placing strategic turrets and managing your resources.
-
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/Jaypph/SpaceShoot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Jaypph/SpaceShoot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Jaypph/SpaceShoot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Jaypph/SpaceShoot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr/Jaypph/SpaceShoot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Jaypph/SpaceShoot?style=for-the-badge" />
+</p>
+<p align="center">
+  <a href="https://jaypph.github.io/SpaceShoot">
+    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-SPACE%20SHOOT-red?style=for-the-badge&logo=rocket" />
+  </a>
+</p>
 ---
 
 ## 🎮 Play It Now
